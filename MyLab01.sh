@@ -2,7 +2,7 @@
 
 hostname > var1
 
-/sbin/ifconfig eth0 >> var 1
+/sbin/ifconfig eth0 >> var1
 
 vmstat >> var1
 
