@@ -1,0 +1,697 @@
+    1  /Users/localadmin/compozed-workstation/bin/set_mynet ; exit;
+    2  sudo /Applications/System\ Preferences.app/Contents/MacOS/System\ Preferences
+    3  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+    4  /Users/localadmin/compozed-workstation/bin/set_mynet ; exit;
+    5  /Users/localadmin/compozed-workstation/bin/unset_proxy ; exit;
+    6  /Users/localadmin/compozed-workstation/bin/set_proxy ; exit;
+    7  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+    8  /Users/localadmin/compozed-workstation/bin/set_mynet ; exit;
+    9  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+   10  sudo /Applications/System\ Preferences.app/Contents/MacOS/System\ Preferences
+   11  /Users/localadmin/compozed-workstation/bin/set_proxy ; exit;
+   12  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+   13  /Users/localadmin/compozed-workstation/bin/set_mynet ; exit;
+   14  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+   15  sudo /Applications/System\ Preferences.app/Contents/MacOS/System\ Preferences
+   16  cd /Users/localadmin/Downloads
+   17  cp fullstack.pem.txt fullstack.pem
+   18  chmod 400 fullstack.pem
+   19  ssh -i "fullstack.pem" ubuntu@ec2-184-72-121-227.compte-1.amazonaws.com
+   20  chmod 400 fullstack.pem.txt
+   21  ssh -i "fullstack.pem.txt" ubuntu@ec2-184-72-121-227.compute-1.amazonaws.com
+   22  ssh -i "fullstack.pem" ubuntu@ec2-184-72-121-227.compute-1.amazonaws.com
+   23  ssh-add -K fullstack.pem
+   24  ssh ubuntu@ec2-184-72-121-227.compte-1.amazonaws.com
+   25  ssh ubuntu@ec2-184-72-121-227.compute-1.amazonaws.com
+   26  ssh ubuntu@ec2-34-229-73-27.compute-1.amazonaws.com
+   27  exit
+   28  sudo
+   29  sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-config-wizard
+   30  cd /users
+   31  cd localadmin
+   32  cd download
+   33  cd downloads
+   34  ssh -i "fullstack.pem" ubuntu@ec2-52-55-172-88.compute-1.amazonaws.com
+   35  ssh -i "fullstack.pem" ubuntu@ec2-52-55-172-88.compute-1.amazonaws.com
+   36  help
+   37  cd /downloads
+   38  cd /Downlods downloads
+   39  cd ~/Downloads
+   40  ssh -i "fullstack.pem" ubuntu@ec2-54-210-126-238.compute-1.amazonaws.com
+   41  cd ~cd/Downloads
+   42  cd ~/Downloads
+   43  ec2-54-82-224-117.compute-1.amazonaws.com
+   44  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+   45  cd ~/Downloads
+   46  ssh -i "TestOregon.pem" ubuntu@ec2-34-220-69-56.us-west-2.compute.amazonaws.com
+   47  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+   48  cd ~/Downloads
+   49  chmod 400 TestOregon.pem
+   50  ssh -i "TestOregon.pem" ubuntu@ec2-34-220-69-56.us-west-2.compute.amazonaws.com
+   51  ssh -i "fullstack.pem" ubuntu@ec2-54-210-126-238.compute-1.amazonaws.com
+   52  cd ~cd/Downloads
+   53  ec2-54-82-224-117.compute-1.amazonaws.com
+   54  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+   55  cd /users/
+   56  cd /downloads/
+   57  cd /users
+   58  cd downloads
+   59  cd /downloads
+   60  cd ~/downloads
+   61  cd..
+   62  cd ~/Downloads
+   63  ssh -i"fullstack.pem" ubuntu@52.90.154.29.compute-1.amazonaws.com
+   64  ssh -i "fullstack.pem" ubuntu@52.90.154.29.compute-1.amazonaws.com
+   65  ssh -i "fullstack.pem" ubuntu@ec2-52-90-154-29.compute-1.amazonaws.com
+   66  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+   67  c
+   68  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+   69  cd ~/Download
+   70  cd ~/Downloads
+   71  ssh -i "fullstack.pem" ubuntu@ec2-54-91-12-19.compute-1.amazonaws.com
+   72  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+   73  cd ~
+   74  cd /downloads
+   75  cd /Downloads
+   76  cd ~/Downloads
+   77  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+   78  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+   79  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+   80  cd ~/Downloads
+   81  ssh -i "fullstack.pem" ec2-54-172-236-199.compute-1.amazonaws.com
+   82  ssh -i "fullstack.pem" ec2-user@ec2-54-172-236-199.compute-1.amazonaws.com
+   83  sudo vim runninginstance.py
+   84  instances = ec2.instances.filter(
+   85  for instance in instances:; ~/Downloads
+   86  cd ~/Downloads
+   87  ssh -i "fullstack.pem" ec2-user@ec2-54-172-236-199.compute-1.amazonaws.com
+   88  cd /Downloads
+   89  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+   90  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+   91  cd ~/Downloads
+   92  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+   93  chmod 400 NoCalPW.pem
+   94  ssh -i "NoCalPW.pem" ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+   95  cd..
+   96  ssh -i"fullstack.pem" ubuntu@52.90.154.29.compute-1.amazonaws.com
+   97  ssh -i "fullstack.pem" ubuntu@52.90.154.29.compute-1.amazonaws.com
+   98  ssh -i "fullstack.pem" ubuntu@ec2-52-90-154-29.compute-1.amazonaws.com
+   99  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  100  c
+  101  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  102  cd ~/Download
+  103  ssh -i "fullstack.pem" ubuntu@ec2-54-91-12-19.compute-1.amazonaws.com
+  104  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  105  cd /downloads
+  106  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  107  sudo chmod 777
+  108  ssh -i "NoCallPW.pem.txt" Ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  109  ssh -i "NoCalPW.pem.txt" Ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  110  cd ~
+  111  cd /Downloads
+  112  cd ~/Downloads
+  113  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  114  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  115  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  116  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  117  c
+  118  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  119  cd ~/Download
+  120  ssh -i "fullstack.pem" ubuntu@ec2-54-91-12-19.compute-1.amazonaws.com
+  121  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  122  cd /downloads
+  123  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  124  sudo chmod 777
+  125  ssh -i "NoCallPW.pem.txt" Ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  126  ssh -i "NoCalPW.pem.txt" Ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  127  cd ~
+  128  cd /Downloads
+  129  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  130  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  131  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  132  ssh -i "TestOregon.pem" ec2_usert@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  133  chmod 400 TestOregon.pem
+  134  sudo chmod 400 TestOrgob.pem
+  135  cd ~/Downloads
+  136  sudo chmod 777 "TestOregon.pem"
+  137  ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  138  chmod 400 /path/my-key-pair.pem
+  139  chmod 400 TestOrgon.pem
+  140  ssh -i "TestOregon.pem" root@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  141  ssh -i "TestOregon.pem" ec2-usert@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  142  ssh -i "TestOregon.pem.txt" ec2-usert@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  143  sudo chmod 777 "TestOregon.pem.txt"
+  144  sudo
+  145  cd ~/Downloads
+  146  ssh -i "fullstack.pem" ec2-user@ec2-54-172-236-199.compute-1.amazonaws.com
+  147  sudo
+  148  vagrant initcentos/7
+  149  mdrir test
+  150  mdir test
+  151  vagrant init centos/7
+  152  drmik test
+  153  mkdir
+  154  mkdir test
+  155  cd..
+  156  cd ~
+  157  cd /Downloads
+  158  cd ~/Downloads
+  159  ssh -i "TestOregon.pem" root@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  160  ssh -i "TestOregon.pem" ec2-user@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  161  cd /Downloads
+  162  ssh -i "TestOregon.pem" root@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  163  ssh -i "TestOregon.pem" ec2-user@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  164  cd~/Downloads
+  165  cd ~/Downloads
+  166  ssh -i "fullstack.pem" ec2-user@ec2-54-172-236-199.compute-1.amazonaws.com
+  167  cd ~/Downloads
+  168  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  169  cd ~/Downloads
+  170  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  171  env
+  172  vi shell.sh
+  173  cd ~/Downloads
+  174  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  175  cd ~/Downloads
+  176  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  177  cd ~/Downloads
+  178  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  179  cd~/Downloads
+  180  ssh -i "fullstack.pem" ec2-user@ec2-54-172-236-199.compute-1.amazonaws.com
+  181  env
+  182  vi shell.sh
+  183  cd/ bash
+  184  cd /bash
+  185  cd..
+  186  cd ~/Downloads
+  187  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  188  /Users/localadmin/compozed-workstation/bin/set_mynet ; exit;
+  189  sudo /Applications/System\ Preferences.app/Contents/MacOS/System\ Preferences
+  190  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+  191  /Users/localadmin/compozed-workstation/bin/set_mynet ; exit;
+  192  /Users/localadmin/compozed-workstation/bin/unset_proxy ; exit;
+  193  /Users/localadmin/compozed-workstation/bin/set_proxy ; exit;
+  194  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+  195  /Users/localadmin/compozed-workstation/bin/set_mynet ; exit;
+  196  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+  197  sudo /Applications/System\ Preferences.app/Contents/MacOS/System\ Preferences
+  198  /Users/localadmin/compozed-workstation/bin/set_proxy ; exit;
+  199  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+  200  /Users/localadmin/compozed-workstation/bin/set_mynet ; exit;
+  201  /Users/localadmin/compozed-workstation/bin/unset_mynet ; exit;
+  202  sudo /Applications/System\ Preferences.app/Contents/MacOS/System\ Preferences
+  203  cd /Users/localadmin/Downloads
+  204  cp fullstack.pem.txt fullstack.pem
+  205  chmod 400 fullstack.pem
+  206  ssh -i "fullstack.pem" ubuntu@ec2-184-72-121-227.compte-1.amazonaws.com
+  207  chmod 400 fullstack.pem.txt
+  208  ssh -i "fullstack.pem.txt" ubuntu@ec2-184-72-121-227.compute-1.amazonaws.com
+  209  ssh -i "fullstack.pem" ubuntu@ec2-184-72-121-227.compute-1.amazonaws.com
+  210  ssh-add -K fullstack.pem
+  211  ssh ubuntu@ec2-184-72-121-227.compte-1.amazonaws.com
+  212  ssh ubuntu@ec2-184-72-121-227.compute-1.amazonaws.com
+  213  ssh ubuntu@ec2-34-229-73-27.compute-1.amazonaws.com
+  214  exit
+  215  sudo
+  216  sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-config-wizard
+  217  cd /users
+  218  cd localadmin
+  219  cd download
+  220  cd downloads
+  221  ssh -i "fullstack.pem" ubuntu@ec2-52-55-172-88.compute-1.amazonaws.com
+  222  ssh -i "fullstack.pem" ubuntu@ec2-52-55-172-88.compute-1.amazonaws.com
+  223  help
+  224  cd /downloads
+  225  cd /Downlods downloads
+  226  cd ~/Downloads
+  227  ssh -i "fullstack.pem" ubuntu@ec2-54-210-126-238.compute-1.amazonaws.com
+  228  cd ~cd/Downloads
+  229  cd ~/Downloads
+  230  ec2-54-82-224-117.compute-1.amazonaws.com
+  231  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  232  cd ~/Downloads
+  233  ssh -i "TestOregon.pem" ubuntu@ec2-34-220-69-56.us-west-2.compute.amazonaws.com
+  234  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  235  cd ~/Downloads
+  236  chmod 400 TestOregon.pem
+  237  ssh -i "TestOregon.pem" ubuntu@ec2-34-220-69-56.us-west-2.compute.amazonaws.com
+  238  ssh -i "fullstack.pem" ubuntu@ec2-54-210-126-238.compute-1.amazonaws.com
+  239  cd ~cd/Downloads
+  240  ec2-54-82-224-117.compute-1.amazonaws.com
+  241  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  242  cd /users/
+  243  cd /downloads/
+  244  cd /users
+  245  cd downloads
+  246  cd /downloads
+  247  cd ~/downloads
+  248  cd ~/Downloads
+  249  ssh -i"fullstack.pem" ubuntu@52.90.154.29.compute-1.amazonaws.com
+  250  ssh -i "fullstack.pem" ubuntu@52.90.154.29.compute-1.amazonaws.com
+  251  ssh -i "fullstack.pem" ubuntu@ec2-52-90-154-29.compute-1.amazonaws.com
+  252  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  253  c
+  254  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  255  cd ~/Download
+  256  cd ~/Downloads
+  257  ssh -i "fullstack.pem" ubuntu@ec2-54-91-12-19.compute-1.amazonaws.com
+  258  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  259  cd /downloads
+  260  cd /Downloads
+  261  cd ~/Downloads
+  262  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  263  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  264  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  265  cd ~/Downloads
+  266  ssh -i "fullstack.pem" ec2-54-172-236-199.compute-1.amazonaws.com
+  267  ssh -i "fullstack.pem" ec2-user@ec2-54-172-236-199.compute-1.amazonaws.com
+  268  sudo vim runninginstance.py
+  269  instances = ec2.instances.filter(
+  270  for instance in instances:; ~/Downloads
+  271  cd ~/Downloads
+  272  ssh -i "fullstack.pem" ec2-user@ec2-54-172-236-199.compute-1.amazonaws.com
+  273  cd /Downloads
+  274  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  275  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  276  cd ~/Downloads
+  277  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  278  chmod 400 NoCalPW.pem
+  279  ssh -i "NoCalPW.pem" ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  280  ssh -i"fullstack.pem" ubuntu@52.90.154.29.compute-1.amazonaws.com
+  281  ssh -i "fullstack.pem" ubuntu@52.90.154.29.compute-1.amazonaws.com
+  282  ssh -i "fullstack.pem" ubuntu@ec2-52-90-154-29.compute-1.amazonaws.com
+  283  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  284  c
+  285  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  286  cd ~/Download
+  287  ssh -i "fullstack.pem" ubuntu@ec2-54-91-12-19.compute-1.amazonaws.com
+  288  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  289  cd /downloads
+  290  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  291  sudo chmod 777
+  292  ssh -i "NoCallPW.pem.txt" Ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  293  ssh -i "NoCalPW.pem.txt" Ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  294  cd /Downloads
+  295  cd ~/Downloads
+  296  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  297  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  298  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  299  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  300  c
+  301  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  302  cd ~/Download
+  303  ssh -i "fullstack.pem" ubuntu@ec2-54-91-12-19.compute-1.amazonaws.com
+  304  ssh -i "fullstack.pem" ubuntu@ec2-54-82-224-117.compute-1.amazonaws.com
+  305  cd /downloads
+  306  ssh -i "fullstack.pem" ec2-34-235-166-161.compute-1.amazonaws.com
+  307  sudo chmod 777
+  308  ssh -i "NoCallPW.pem.txt" Ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  309  ssh -i "NoCalPW.pem.txt" Ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  310  cd /Downloads
+  311  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-18-144-41-188.us-west-1.compute.amazonaws.com
+  312  ssh -i "NoCalPW.pem.txt" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  313  ssh -i "fullstack.pem" ubuntu@ec2-34-235-166-161.compute-1.amazonaws.com
+  314  ssh -i "TestOregon.pem" ec2_usert@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  315  chmod 400 TestOregon.pem
+  316  sudo chmod 400 TestOrgob.pem
+  317  cd ~/Downloads
+  318  sudo chmod 777 "TestOregon.pem"
+  319  ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  320  chmod 400 /path/my-key-pair.pem
+  321  chmod 400 TestOrgon.pem
+  322  ssh -i "TestOregon.pem" root@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  323  ssh -i "TestOregon.pem" ec2-usert@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  324  ssh -i "TestOregon.pem.txt" ec2-usert@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  325  sudo chmod 777 "TestOregon.pem.txt"
+  326  sudo
+  327  cd ~/Downloads
+  328  ssh -i "fullstack.pem" ec2-user@ec2-54-172-236-199.compute-1.amazonaws.com
+  329  sudo
+  330  vagrant initcentos/7
+  331  mdrir test
+  332  mdir test
+  333  vagrant init centos/7
+  334  drmik test
+  335  mkdir
+  336  mkdir test
+  337  cd /Downloads
+  338  cd ~/Downloads
+  339  ssh -i "TestOregon.pem" root@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  340  ssh -i "TestOregon.pem" ec2-user@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  341  cd /Downloads
+  342  ssh -i "TestOregon.pem" root@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  343  ssh -i "TestOregon.pem" ec2-user@ec2-52-89-3-0.us-west-2.compute.amazonaws.com
+  344  cd~/Downloads
+  345  cd ~/Downloads
+  346  ssh -i "fullstack.pem" ec2-user@ec2-54-172-236-199.compute-1.amazonaws.com
+  347  cd ~/Downloads
+  348  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  349  cd ~/Downloads
+  350  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  351  env
+  352  vi shell.sh
+  353  cd ~/Downloads
+  354  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  355  cd ~/Downloads
+  356  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  357  cd ~/Downloads
+  358  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  359  git
+  360  git --version
+  361  ssh-keygen
+  362  cat~/.ssh/id_rsa.pub
+  363  cat ~/.ssh/id_rsa.pub
+  364  cd deveoptraining
+  365  cd ~/devopstraining
+  366  touch VirginaJ
+  367  git commit -m
+  368  git commit -m "Adding my first code"
+  369  git user.email vajacob@comcast.net
+  370  git commit -m "Adding my first file"
+  371  git add VirginaJ
+  372  cd ..
+  373  rm -rf devopstraining/
+  374  git clone git@github.com:becloudready/devopstraining.git
+  375  touch VJacob
+  376  git config user.email vajacob@comcast.net
+  377  ggit config --global user.email "you@example.com"
+  378  git commit -m "Added my file"
+  379  vi .git/config 
+  380  echo "hello World" > VJacob
+  381  echo "hello World" >> VJacob
+  382  echo "Hello World" >> VJacob
+  383  cat VJacob
+  384  git add VJacob
+  385  git commit -m 'Added hello world  into file'
+  386  get log
+  387  cd ~
+  388  md MyTest
+  389  cd MyTest
+  390  echo "This is my first test" >> FirstFile.txt
+  391  git add FirstFile.txt
+  392  git commit -m "first commit"
+  393  git commit -m "FirstFile.txt"
+  394  git push origin master
+  395  echo "#MyFirst" >>READ.md
+  396  git init
+  397  git add READ.md
+  398  git config user.email "vajacob@comcast.net"
+  399  git config user.name "VJacob"
+  400  git commit -m "First Commit"
+  401  git remote add origin git@github.com:virginaj/MyFirst.git
+  402  git push -u origin master
+  403  cat Read.md
+  404  cd MyFirst
+  405  ~
+  406  get branch
+  407  cd devopstraining
+  408  git checkout b VJacob
+  409  git push origin VJacob
+  410  echo "Editing on new branch for Tejas" >> tejas
+  411  echo "NewTest branch" >> VJacob
+  412  git diff
+  413  git "testnewtxt" >> VJacob
+  414  echo "testNewTxt" VJacob
+  415  git add "testNewTxt"
+  416  git add "NewfileBranch"
+  417  git push -u origin VJacob
+  418  get checkou -b tejas origin/tejas
+  419  gitt checkout -b tejas origin/tejas
+  420  git checkout -b tejas origin/tejas
+  421  git branch -a
+  422  git checkout -b tejas
+  423  git chekout -b VJacob
+  424  git checkout -b VJacob
+  425  git checkout -b chris remotes/origin/chris
+  426  git master chris
+  427  git checkout -b chris
+  428  git log
+  429  git branch chris
+  430  git checkout chris
+  431  git branch -D chris
+  432  git checkout VJacob
+  433  git pull
+  434  get branch -b VJacob2
+  435  git branch -b VJacob2
+  436  echo "testNewTxt" >> NewfileBranch
+  437  cat NewfileBranch
+  438  git checkout -b virginaJ/MyFirst
+  439  git checkout virginaJ/MyFirst
+  440  git checkout virginaj/MyFirst
+  441  git clone git@github.com:virginaj/MyFirst.git
+  442  cd MyFirst/
+  443  cd
+  444  git clone git@github.com:code1440/codetohackanyaccount.git
+  445  cd codetohackanyaccount/
+  446  git checkout -b vj
+  447  echo "test" >> vjnew
+  448  cat vjnew
+  449  git add "vjnew"
+  450  git config --global user.email "vajacob@comcast.net"
+  451  git config --global user.name "virginaj"
+  452  git commit
+  453  git commit -m "create new file"
+  454  git push --set-upstream origin vj
+  455  cd..
+  456  cd devopstraining/
+  457  git checkout -b VJacob2
+  458  git checkout -b VJacob3
+  459  vi genreport.sh
+  460  git branch naster
+  461  git branch master
+  462  git checkout master
+  463  git checkou VJcob3
+  464  git checkout VJcob3
+  465  git checkout VJacob3
+  466  cd /bash
+  467  git add print_host.sh
+  468  git commit -m "Print file"
+  469  git push -u
+  470  git push -u origin VJacob3
+  471  git push --set-upstream origin VJacob3
+  472  git branch
+  473  git status
+  474  git blame print_host.sh
+  475  git push origin VJacob3
+  476  git add "print_host.sh"
+  477  git commit 
+  478  git commit -m "myBranch"
+  479  git push
+  480  nano test
+  481  cd ~Downloads
+  482  cd ~/Downloads
+  483  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  484  nano test
+  485  finf .
+  486  find .
+  487  find . -name 'work'
+  488  git push origin VJacob3
+  489  git add "print_host.sh"
+  490  git commit 
+  491  git commit -m "myBranch"
+  492  git push
+  493  nano test
+  494  cd aritmatic
+  495  cd /bash/arithmatic
+  496  cd arithmatic
+  497  sudo chmod 777 arith-00.sh
+  498  ./arith-00.sh
+  499  grep root
+  500  cd
+  501  yum install wget
+  502  yum install wget
+  503  git push -u origin VJacob3
+  504  git push --set-upstream origin VJacob3
+  505  git branch
+  506  git blame print_host.sh
+  507  git push origin VJacob3
+  508  git add "print_host.sh"
+  509  git commit 
+  510  git commit -m "myBranch"
+  511  git push
+  512  rm -rf bash/
+  513  git clone https://github.com/virginaj/bash
+  514  git clone git@github.com:virginaj/bash.git
+  515  cd
+  516  git status
+  517  locate menu.sh
+  518  cat sample.txt | grap test
+  519  ps -a
+  520  grap -i bash
+  521  grep -i bash
+  522  cat copy.sh | grep trash
+  523  ps
+  524  ps | grep login
+  525  ps | grep log
+  526  wc copy.sh
+  527  netstat -plunt
+  528  iconfig
+  529  ifconfig
+  530  cd ~/Downloads
+  531  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  532  sudo locate *.csv
+  533  sudo locate *.csv
+  534  sudo locate *.csv
+  535  sudo locate *.csv
+  536  sudo locate *.csv
+  537  sudo locate *.csv
+  538  sudo chmod 777 *.csv
+  539  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  540  git push --set-upstream origin VJacob3
+  541  git branch
+  542  git status
+  543  git blame print_host.sh
+  544  git push origin VJacob3
+  545  git add "print_host.sh"
+  546  git commit 
+  547  git commit -m "myBranch"
+  548  git push
+  549  nano test
+  550  cd ~Downloads
+  551  cd ~/Downloads
+  552  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  553  nano test
+  554  finf .
+  555  find .
+  556  find . -name 'work'
+  557  git push origin VJacob3
+  558  git add "print_host.sh"
+  559  git commit 
+  560  git push
+  561  nano test
+  562  cd aritmatic
+  563  cd /bash/arithmatic
+  564  cd arithmatic
+  565  sudo chmod 777 arith-00.sh
+  566  ./arith-00.sh
+  567  grep root
+  568  yum install wget
+  569  yum install wget
+  570  git push -u origin VJacob3
+  571  git push --set-upstream origin VJacob3
+  572  git branch
+  573  git blame print_host.sh
+  574  git push origin VJacob3
+  575  git add "print_host.sh"
+  576  git commit 
+  577  git commit -m "myBranch"
+  578  git push
+  579  rm -rf bash/
+  580  git clone https://github.com/virginaj/bash
+  581  git clone git@github.com:virginaj/bash.git
+  582  git status
+  583  locate menu.sh
+  584  cat sample.txt | grap test
+  585  ps -a
+  586  grap -i bash
+  587  grep -i bash
+  588  cat copy.sh | grep trash
+  589  ps
+  590  ps | grep login
+  591  ps | grep log
+  592  wc copy.sh
+  593  netstat -plunt
+  594  iconfig
+  595  ifconfig
+  596  cd ~/Downloads
+  597  ssh -i "fullstack.pem" ec2-user@ec2-52-70-0-61.compute-1.amazonaws.com
+  598  sudo locate *.csv
+  599  sudo locate *.csv
+  600  sudo locate *.csv
+  601  sudo locate *.csv
+  602  sudo locate *.csv
+  603  bash case.sh
+  604  cd..
+  605  cd
+  606  cd confitions
+  607  bash conditions/case.sh
+  608  env
+  609  env | grep -i user
+  610  bash conditions/user-check.sh
+  611  bash num1
+  612  5
+  613  6
+  614  bash num1.sh
+  615  bash /conditions/num1.sh
+  616  2
+  617  history
+  618  bash conditions/loop.sh
+  619  seq
+  620  seq 10
+  621  bash conditions/num1.sh
+  622  man df
+  623  bf
+  624  df -b
+  625  df -B1
+  626  bf -help
+  627  bf --help
+  628  df -t
+  629  df --help
+  630  df -T
+  631  mountpoint
+  632  mountpoint -- help
+  633  bash conditions/mount.sh
+  634  mount
+  635  history 
+  636  history | grep awk
+  637  df -h | awk '{ print $1 $9 }'
+  638  df -h 
+  639  df -h | awk '{ print $1 $3 }'
+  640  df -h | awk '{ print $1 ,$3 }'
+  641  df -h | awk '{ print $1 "and" $3 }'
+  642  df -h | awk '{ print $1, "and" $3 }'
+  643  df -h | awk '{ print $1, "and" ,$3 }'
+  644  df -h | awk '{ print $1, "and" ,$3 }' > result.txt
+  645  df -h
+  646  mount --h
+  647  mount --help
+  648  for i in $(df -h); do echo $i; done;
+  649  for i in $(ls); ;
+  650  for i in $(ls); do; done;
+  651  for i in $(ls); do $i; done;
+  652  for i in $(ls -l); do $i; done;
+  653  ls -l
+  654  for i in $(ls -l); do echo $i; done;
+  655  for i in 'mount | awk '{print $1}'; do echo $i; done;
+  656  '
+  657  logout
+  658  cat conditions/hosts
+  659  conditions/hosts
+  660  for host in $(cat conditions/hosts); do echo "My AWS Hosts=" $host; done;
+  661  for host in $(cat conditions/hosts); do echo ssh -i ~ Downloads/fullstack.pem "My AWS Hosts=" $host; done;
+  662  for host in $(cat conditions/hosts); do ssh -i ~Downloads/fullstack.pem "My AWS Hosts=" $host; done;
+  663  for host in $(cat conditions/hosts); do ssh -i ~ Downloads/fullstack.pem "My AWS Hosts=" $host; done;
+  664  for host in $(cat conditions/hosts); do ssh -i ~ Downloads/fullstack.pem $host; done;
+  665  for host in $(cat conditions/hosts); do ssh -i ~/Downloads/fullstack.pem $host; done;
+  666  for host in $(cat hosts); do ssh -i ~/Downloads/fullstack.pem $host "sudo yum install httpd -y"; done;
+  667  cd ~/
+  668  for host in $(cat conditions/hosts); do ssh -i ~/Downloads/fullstack.pem "My AWS Hosts=" $host; done;
+  669  ~/
+  670  pwd
+  671  cd bash
+  672  cd conditions
+  673  for i in $(cat conditions/hosts); do echo "My AWS Hosts=" $i; done;
+  674  for i in $(cat hosts); do echo "My AWS Hosts=" $i; done;
+  675  for host in $(cat hosts); do echo "My AWS Hosts=" $host; done;
+  676  for host in $(cat hosts); do echo $host; done;
+  677  for host in $(cat hosts); do ssh -i ~/Downloads/fullstack.pem echo $host; done;
+  678  for host in $(cat hosts); do ssh -i "fullstack.pem" $host; done;
+  679  for host in $(cat hosts); do ssh -i ~/Download/fullstack.pem $host; done;
+  680  for host in $(cat hosts); do ssh -i "~/Download/fullstack.pem" $host; done;
+  681  for host in $(cat hosts); do ssh -i "~/Downloads/fullstack.pem" $host; done;
+  682  for host in $(cat hosts); do ssh -i "~/Downloads/fullstack.pem" $host "hostname"; done;
+  683  for host in $(cat hosts); do ssh -i "~/Downloads/fullstack.pem" $host "sudo yum install httpd -y"; done;
+  684  ls
+  685  rpm
+  686  rpm -qa
+  687  rpm -qa | grep httpd
+  688* 
+  689  nc --help
+  690  man nc
+  691  nc -G
+  692  nc -zv -G
+  693  nc -zv -G 1 hostname
+  694  ncat 54-152-211-207
+  695  ncat -1
+  696  for i in $(cat hosts); do nc -z $i 22; done;
+  697  history > commandtext

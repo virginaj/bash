@@ -1,0 +1,6 @@
+
+# https://github.com/git-for-windows/git/releases/download/v2.18.0.windows.1/Git-2.18.0-64-bit.exe 
+
+
+#nc -z ec2-35-183-115-47.ca-central-1.compute.amazonaws.com 22
+#Connection to ec2-35-183-115-47.ca-central-1.compute.amazonaws.com port 22 [tcp/ssh] succeeded!
