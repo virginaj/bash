@@ -7,7 +7,7 @@ read n2
 
 if [[ $n1 -ne 10 ]] || [[ $n2 -ne 10 ]];
 then
-	echo "number is less than 10"
+	echo "number is less than 10 .."
     for num in 1 2 3 4 5
         do
             echo $num

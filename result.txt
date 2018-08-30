@@ -1,0 +1,8 @@
+Filesystem and Used
+/dev/disk1s1 and 43Gi
+devfs and 187Ki
+/dev/disk1s4 and 2.0Gi
+map and 0Bi
+map and 0Bi
+map and 0Bi
+/Users/localadmin/Downloads/Visual and Code.app
