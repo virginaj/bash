@@ -20,3 +20,4 @@ echo "Illegal choice." ;;
 esac 
 echo 
 done
+echo "this is atest for an updated"
